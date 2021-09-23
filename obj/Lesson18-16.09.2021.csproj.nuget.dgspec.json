@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Job\\GitHub\\Lesson18 16 09\\Lesson18-16.09.2021\\Lesson18-16.09.2021\\Lesson18-16.09.2021.csproj": {}
+  },
+  "projects": {
+    "D:\\Job\\GitHub\\Lesson18 16 09\\Lesson18-16.09.2021\\Lesson18-16.09.2021\\Lesson18-16.09.2021.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Job\\GitHub\\Lesson18 16 09\\Lesson18-16.09.2021\\Lesson18-16.09.2021\\Lesson18-16.09.2021.csproj",
+        "projectName": "Lesson18-16.09.2021",
+        "projectPath": "D:\\Job\\GitHub\\Lesson18 16 09\\Lesson18-16.09.2021\\Lesson18-16.09.2021\\Lesson18-16.09.2021.csproj",
+        "packagesPath": "C:\\Users\\L1oN\\.nuget\\packages\\",
+        "outputPath": "D:\\Job\\GitHub\\Lesson18 16 09\\Lesson18-16.09.2021\\Lesson18-16.09.2021\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\L1oN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "System.Security.Cryptography.ProtectedData": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

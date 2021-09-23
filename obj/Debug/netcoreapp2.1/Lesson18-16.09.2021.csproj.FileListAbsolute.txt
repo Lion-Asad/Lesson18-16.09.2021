@@ -1,0 +1,8 @@
+D:\Job\GitHub\Lesson18 16 09\Lesson18-16.09.2021\Lesson18-16.09.2021\bin\Debug\netcoreapp2.1\Lesson18-16.09.2021.deps.json
+D:\Job\GitHub\Lesson18 16 09\Lesson18-16.09.2021\Lesson18-16.09.2021\bin\Debug\netcoreapp2.1\Lesson18-16.09.2021.runtimeconfig.json
+D:\Job\GitHub\Lesson18 16 09\Lesson18-16.09.2021\Lesson18-16.09.2021\bin\Debug\netcoreapp2.1\Lesson18-16.09.2021.runtimeconfig.dev.json
+D:\Job\GitHub\Lesson18 16 09\Lesson18-16.09.2021\Lesson18-16.09.2021\bin\Debug\netcoreapp2.1\Lesson18-16.09.2021.dll
+D:\Job\GitHub\Lesson18 16 09\Lesson18-16.09.2021\Lesson18-16.09.2021\obj\Debug\netcoreapp2.1\Lesson18-16.09.2021.csprojAssemblyReference.cache
+D:\Job\GitHub\Lesson18 16 09\Lesson18-16.09.2021\Lesson18-16.09.2021\obj\Debug\netcoreapp2.1\Lesson18-16.09.2021.csproj.CoreCompileInputs.cache
+D:\Job\GitHub\Lesson18 16 09\Lesson18-16.09.2021\Lesson18-16.09.2021\obj\Debug\netcoreapp2.1\Lesson18-16.09.2021.AssemblyInfoInputs.cache
+D:\Job\GitHub\Lesson18 16 09\Lesson18-16.09.2021\Lesson18-16.09.2021\obj\Debug\netcoreapp2.1\Lesson18-16.09.2021.AssemblyInfo.cs
